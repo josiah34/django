@@ -4,4 +4,4 @@
 
 <hr>
 
-This is a repositroy for all my work for the [Django 4 and Python Full-Stack Developer Masterclass](https://www.udemy.com/course/django-and-python-full-stack-developer-masterclass/) Udemy course. 
+This is a repository for all my work for the [Django 4 and Python Full-Stack Developer Masterclass](https://www.udemy.com/course/django-and-python-full-stack-developer-masterclass/) Udemy course. 
